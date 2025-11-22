@@ -1,25 +1,42 @@
-## Hi there 👋
 
-Hello! I'm a hands-on Software Developer and Data Science Intern dedicated to creating data-driven solutions in the Educational Technology (EdTech) space.
+💻 Python Developer | AI/ML Practitioner & Software Developement student at BYU-Idaho| Passionate about building technologies that Enhance Children's Learning
 
-For nearly a decade, I have focused on building programs that enhance children's learning in areas like Mental Math, Robotics, and Coding. I now leverage my expertise in program design and measurable outcomes with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
+*Introd uction
 
-My current work and projects focus on:
+Hello! I'm Nehikhare Efehi - a hands-on Software Developer and Data Science Intern dedicated to creating data-driven solutions in the Educational Technology (EdTech) space.
 
-EdTech Application Development: Building tools for improved instruction, curriculum deployment, and student engagement (especially in math and STEM).
+For nearly a decade, I have focused on building high-impact programs that enhance children's learning in areas like **Mental Math, Robotics, and Coding**. I now leverage this deep program design and leadership expertise with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
 
-Data Science & ML in Education: Applying data analysis, predictive modeling, and statistical methods to measure and improve learning outcomes.
+* What I'm Building
 
-Backend/Data Engineering: Designing efficient systems for handling educational data and reporting (e.g., student progress, cohort analytics).
+* EdTech Application Development: Building tools for improved instruction, curriculum deployment, and student engagement (especially in math and STEM).
+* Data Science & ML in Education: Applying data analysis, predictive modeling, and statistical methods to measure and improve learning outcomes. (See pinned projects for examples like transaction detection and outcome modeling.)
+* Backend/Data Engineering: Designing efficient systems for handling educational data, ETL processes, and reporting.
 
-I am always looking to collaborate on projects where purpose-driven technology meets human potential.
+* Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend
+- React | Next.js | TypeScript | JavaScript
+- Tailwind CSS | CSS Modules | HTML5/CSS3
+
+* Technologies, Tools & Platforms
+- Git & GitHub | Node.js | npm 
+- Vercel | VS Code |python (OOP) | Bash
+- Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
+- SQL (PostgreSQL/MySQL), Relational Database Design |
+
+* Currently Learning
+- Full-stack Next.js development
+- Database integration
+- Authentication systems
+
+* Projects
+- [Next.js Dashboard](https://github.com/Nehiz/nextjs-dashboard) - Financial dashboard with Next.js
+- [React Todo List](https://github.com/Nehiz/react-todo-list) - Task management app
+- [Handcrafted Haven](link) - E-commerce marketplace (On-going Group Project)
+
+* LinkedIn: www.linkedin.com/in/efehi-neh
+* Portfolio/Website: 
+* Email: nehikhareefehi@gmail.com
+
+Let's Connect
