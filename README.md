@@ -1,8 +1,4 @@
 
-💻 Python Developer | AI/ML Practitioner & Software Developement student at BYU-Idaho| Passionate about building technologies that Enhance Children's Learning
-
-*Introd uction
-
 Hello! I'm Nehikhare Efehi - a hands-on Software Developer and Data Science Intern dedicated to creating data-driven solutions in the Educational Technology (EdTech) space.
 
 For nearly a decade, I have focused on building high-impact programs that enhance children's learning in areas like **Mental Math, Robotics, and Coding**. I now leverage this deep program design and leadership expertise with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
