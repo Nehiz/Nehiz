@@ -1,9 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Nehiz/Nehiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a hands-on Software Developer and Data Science Intern dedicated to creating data-driven solutions in the Educational Technology (EdTech) space.
 
-Here are some ideas to get you started:
+For nearly a decade, I have focused on building programs that enhance children's learning in areas like Mental Math, Robotics, and Coding. I now leverage my expertise in program design and measurable outcomes with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
+
+My current work and projects focus on:
+
+EdTech Application Development: Building tools for improved instruction, curriculum deployment, and student engagement (especially in math and STEM).
+
+Data Science & ML in Education: Applying data analysis, predictive modeling, and statistical methods to measure and improve learning outcomes.
+
+Backend/Data Engineering: Designing efficient systems for handling educational data and reporting (e.g., student progress, cohort analytics).
+
+I am always looking to collaborate on projects where purpose-driven technology meets human potential.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
