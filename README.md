@@ -3,30 +3,30 @@ Hello! I'm Nehikhare Efehi - a hands-on Software Developer and Data Science Inte
 
 For nearly a decade, I have focused on building high-impact programs that enhance children's learning in areas like **Mental Math, Robotics, and Coding**. I now leverage this deep program design and leadership expertise with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
 
-* What I'm Building
+What I'm Building
 
 * EdTech Application Development: Building tools for improved instruction, curriculum deployment, and student engagement (especially in math and STEM).
 * Data Science & ML in Education: Applying data analysis, predictive modeling, and statistical methods to measure and improve learning outcomes. (See pinned projects for examples like transaction detection and outcome modeling.)
 * Backend/Data Engineering: Designing efficient systems for handling educational data, ETL processes, and reporting.
 
-* Tech Stack
+Tech Stack
 
 * Frontend
 - React | Next.js | TypeScript | JavaScript
 - Tailwind CSS | CSS Modules | HTML5/CSS3
 
-* Technologies, Tools & Platforms
+Skills, Technologies, Tools & Platforms
 - Git & GitHub | Node.js | npm 
 - Vercel | VS Code |python (OOP) | Bash
 - Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
 - SQL (PostgreSQL/MySQL), Relational Database Design |
 
-* Currently Learning
+Currently Learning
 - Full-stack Next.js development
 - Database integration
 - Authentication systems
 
-* Projects
+Projects
 - [Next.js Dashboard](https://github.com/Nehiz/nextjs-dashboard) - Financial dashboard with Next.js
 - [React Todo List](https://github.com/Nehiz/react-todo-list) - Task management app
 - [Handcrafted Haven](link) - E-commerce marketplace (On-going Group Project)
