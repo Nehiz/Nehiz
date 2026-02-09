@@ -1,42 +1,73 @@
 About Me
 
-Python Developer | AI/ML Practitioner & Software Developement student at BYU-Idaho| Passionate about building technologies that Enhance Children's Learning
+Hi, I'm Nehikhare Efehi "Nehis" 
+Applied Data Scientist | AI Engineer | EdTech Specialist
+Python • Machine Learning • Learning Analytics • Software Developement student at BYU—Idaho
 
-Hello! I'm Nehikhare Efehi - a hands-on Software Developer and Data Science Intern dedicated to creating data-driven solutions in the Educational Technology (EdTech) space.
+I design and build data-driven and AI-powered systems that improve learning outcomes—especially
+in Math, STEM, and computational education.
 
-For nearly a decade, I have focused on building high-impact programs that enhance children's learning in areas like **Mental Math, Robotics, and Coding**. I now leverage this deep program design and leadership expertise with technical skills in Python, Machine Learning, and SQL to create scalable digital tools.
+With nearly 10 years of experience in education program design, I now combine data science,
+machine learning,  and software engineering to create intelligent learning platforms for Children
 
-What I'm Building
++------------------------------------------------------------------------------------------------+
+🎯 FOCUS AREAS
+• Learning analytics & student performance modeling
+• Applied machine learning for education
+• Data pipelines & educational data systems
+• AI- assisted assessment & feedback tools
 
-* EdTech Application Development: Building tools for improved instruction, curriculum deployment, and student engagement (especially in math and STEM).
-* Data Science & ML in Education: Applying data analysis, predictive modeling, and statistical methods to measure and improve learning outcomes. (See pinned projects for examples like transaction detection and outcome modeling.)
-* Backend/Data Engineering: Designing efficient systems for handling educational data, ETL processes, and reporting.
++------------------------------------------------------------------------------------------------+
 
-Tech Stack
+🧠 What I'm WOrking On
+• Predictive models for student performance and engagement
+• Data-driven evaluation of instructional effectiveness
+• Backend systems for collecting, transforming, and analysing learning data
+• AI tools that support-not replace-teaching
 
-* Frontend
-- React | Next.js | TypeScript | JavaScript
-- Tailwind CSS | CSS Modules | HTML5/CSS3
++-----------------------------------------------------------------------------------------------+
 
-Skills, Technologies, Tools & Platforms
-- Git & GitHub | Node.js | npm 
-- Vercel | VS Code |python (OOP) | Bash
-- Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn |
-- SQL (PostgreSQL/MySQL), Relational Database Design |
+Tech STack
 
-Currently Learning
-- Full-stack Next.js development
-- Database integration
-- Authentication systems
+Data & AI 
+• Puthon, Pandas, Numpy
+• Scikit-driven 
+• Data visualization (Matplotlib, Seaborn, Plotly, Streamlit)
+• SQL (PostgreSQL, MySQL)
 
-Projects
-- [Next.js Dashboard](https://github.com/Nehiz/nextjs-dashboard) - Financial dashboard with Next.js
-- [React Todo List](https://github.com/Nehiz/react-todo-list) - Task management app
-- [Handcrafted Haven](link) - E-commerce marketplace (On-going Group Project)
+Engineering
+• ETL pipelines & data modeling
+• Backend APIs (Node.js, Python)
+• Git & GitHub
+• Bash, VS Code
 
-Let's Connect
+Frontend (Supportive)
+• React, Next.js
+• TypeScript, JavaScript
+• Tailwind CSS
+
++----------------------------------------------------------------------------------------------+
+📌 Featured Work
+• Student Performance Prediction - ML model using real-world educational data
+• Learning Outcome Analysis - Data-driven insights into curriculum effectiveness
+• Next.js Data Dashboard - Visualizing metrics for decision-making
+• EdTech Platforms (Ongoing) - AI-powered educational tools
+👉 See pinned repositories for full, end-to-end data projects.
+
++----------------------------------------------------------------------------------------------+
+📚 Currently Growing in
+• Advanced ML workflows
+• Data engineering best practices
+• MLOps fundamentals
+• Scalable analytics systems
+
+On-going Projects
+• [Next.js Dashboard](https://github.com/Nehiz/nextjs-dashboard) - Financial dashboard with Next.js
+• [React Todo List](https://github.com/Nehiz/react-todo-list) - Task management app
+• [Handcrafted Haven](link) - E-commerce marketplace (On-going Group Project)
+
+🤝 Let's Connect
 * LinkedIn: www.linkedin.com/in/efehi-neh
-* Portfolio/Website: 
 * Email: nehikhareefehi@gmail.com
-
+* Portfolio/Website: coming soon
 
