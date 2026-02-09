@@ -2,7 +2,6 @@
 
 Applied Data Scientist | AI Engineer | EdTech Specialist
 Python • Machine Learning • Learning Analytics
-
 Software Development Student @ BYU–Idaho
 
 I design and build data-driven and AI-powered systems that improve learning outcomes—especially in Math, STEM, and computational education.
